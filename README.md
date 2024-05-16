@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**Olivialopes10/Olivialopes10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Olivia Lopes
+mail
+- Estou estudando no Alura
+- Estou me desenvolvendona linguagem Java Script
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+ ### você pode entrar em contato comigo 📫
+ 00001108634035sp@al.educacao.sp.gov.br
+ 
+ @oliviadlps_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![](https://tenor.com/pt-BR/view/fourth-of-july-fireworks-celebration-gif-16006182)
+ 
